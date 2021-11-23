@@ -106,7 +106,7 @@ button {
 
     body {
         flex-direction: column;
-        width: 80%;
+        width: 90%;
     }
 
     .col-1 {
@@ -119,14 +119,6 @@ button {
         border-top-right-radius: 0;
         border-bottom-left-radius: 10px;
         border-bottom-right-radius: 10px;
-    }
-
-      h1 {
-        font-size: 3em;
-    }
-
-    p {
-        font-size: 1.5em;
     }
 }
 
