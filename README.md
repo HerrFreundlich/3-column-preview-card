@@ -1,5 +1,9 @@
 # 3-column-preview-card
 
-Front End Mentor Challenge
+Eine Vorschaukarte um etwas anzupreisen. Die Webseite ist Responsive und Mobile Friendly.
 
-https://herrfreundlich.github.io/3-column-preview-card/
+Geschrieben in purem HTML und CSS, ohne Frameworks.
+
+Im Browser anzeigen: https://herrfreundlich.github.io/3-column-preview-card/
+
+Design Idee von Front End Mentor: https://www.frontendmentor.io/
