@@ -1,6 +1,6 @@
 # 3-column-preview-card
 
-Eine Vorschaukarte um etwas anzupreisen. Die Webseite ist Responsive und Mobile Friendly.
+Eine Vorschaukarte, um etwas anzupreisen. Die Webseite ist Responsive und Mobile Friendly.
 
 Geschrieben in purem HTML und CSS, ohne Frameworks.
 
